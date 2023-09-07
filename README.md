@@ -1,1 +1,1 @@
-# risc0-eexample
+# risc0-example
